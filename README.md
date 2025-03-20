@@ -952,4 +952,8 @@ NOTE: Sound doesn't work and a lot of websites are blocked, but it's just fun to
 
 (Not really) credit to mundaneunblocking
 
+
+if u spam open and close this program (the vm) there is a slight chance it might glitch the timer and wont run out
+
+
 [**🔼 Back to top**](#ext-remover)
